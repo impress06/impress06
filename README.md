@@ -13,10 +13,11 @@ Welcome to my GitHub profile! Here are a few things about me:
 - 📫 How to reach me: mustafatelli@msn.com
 - ⚡ Fun fact: I'm a big fan of professional wrestling
 
-## My Projects
+## My Best Projects
 
-- 
-- More projects coming soon!
+- Stock App MERN Project Fullstack using(React redux persist pagination realtime search crud email entegrasyon)
+- Netflix Clone (Next.js)
+- Blog App MERN FullStack
 
 ## Skills
 
