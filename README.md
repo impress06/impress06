@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hello there, I'm Mustafa</h1>
-  <img src="sandbox:/mnt/data/file-luO9BufvxqXZc8O5s6gpo0M5" width="200" />
+  <img src="DALL·E 2024-06-04 06.55.59 - Create a cartoon avatar of a man based on the first uploaded image, in the style of the second uploaded image. The man should have a similar hairstyle.webp" width="200" />
   <p>I'm a mathematician and full stack developer.</p>
 </div>
 
