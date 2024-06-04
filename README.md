@@ -8,7 +8,7 @@
 
 Welcome to my GitHub profile! Here are a few things about me:
 
-- 🌱 I’m currently learning **JavaScript** and **React** **Node/Express** **Python** **Django**
+- 🌱 I’m currently learning **JavaScript** , **React** , **Next.js**, **Node**,**Express** , **Python** , **Django**
 - 💼 Working on a project called **stockApp**
 - 📫 How to reach me: mustafatelli@msn.com
 - ⚡ Fun fact: I'm a big fan of professional wrestling
