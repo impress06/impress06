@@ -8,7 +8,7 @@
 
 Welcome to my GitHub profile! Here are a few things about me:
 
-- 🌱 I’m currently learning **JavaScript** , **React** , **Next.js**, **Node**,**Express** , **Python** , **Django**
+- 🌱 I’m currently working and learning **JavaScript** , **React** , **Next.js**, **Node**,**Express** , **Python** , **Django**
 - 💼 Working on a project called **stockApp**
 - 📫 How to reach me: mustafatelli@msn.com
 - ⚡ Fun fact: I'm a big fan of professional wrestling
@@ -25,7 +25,6 @@ Welcome to my GitHub profile! Here are a few things about me:
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MUI" alt="MUI" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
@@ -42,9 +41,4 @@ Welcome to my GitHub profile! Here are a few things about me:
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 
-## Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-
-![Banner](sandbox:/mnt/data/file-QUJJQgGLLJZU1cSmT4ZDgya8)
