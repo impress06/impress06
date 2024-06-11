@@ -8,10 +8,11 @@
 
 Welcome to my GitHub profile! Here are a few things about me:
 
-- 🌱 I’m currently working and learning **JavaScript** , **React** , **Next.js**, **Node**,**Express** , **Python** , **Django**
-- 💼 Working on a project called **stockApp**
+- 🌱 I’m currently working and learning **JavaScript** , **React** , **Next.js**, **Node**,**Express** , **Python** , **Django** **RestAPI**
+- 💼 Finished APP called **stockApp**
+- 💼 Working on a project called **NetflixClone**
 - 📫 How to reach me: mustafatelli@msn.com
-- ⚡ Fun fact: I'm a big fan of professional wrestling
+- ⚡ Fun fact: "I'm a big fan of chess."
 
 ## My Best Projects
 
@@ -34,7 +35,6 @@ Welcome to my GitHub profile! Here are a few things about me:
  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
