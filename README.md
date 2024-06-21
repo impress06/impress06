@@ -9,16 +9,21 @@
 Welcome to my GitHub profile! Here are a few things about me:
 
 - 🌱 I’m currently working and learning **JavaScript** , **React** , **Next.js**, **Node**,**Express** , **Python** , **Django** **RestAPI**
+- 🚀 Founder and Developer of **sepetteyemek.com**
+- 🧠 Analytical thinker with a love for continuous learning and I am a mathematican
 - 💼 Finished APP called **stockApp**
-- 💼 Working on a project called **NetflixClone**
+- 💼 Finished APP called **FoodOrderApp**
+- 💼 Finished APP called **NetflixClone**
+- 💼 Work on APP called **Blog App**
 - 📫 How to reach me: mustafatelli@msn.com
 - ⚡ Fun fact: "I'm a big fan of chess."
 
 ## My Best Projects
 
 - Stock App MERN Project Fullstack using(React redux persist pagination realtime search crud email entegrasyon)
-- Netflix Clone (Home Page) (Next.js)
-- Blog App MERN (Next.js) FullStack
+- Food Order App MERN Project Fullstack using(React ContextAPI persist and  pagination realtime search crud email entegrasyon)
+- Netflix Clone (Home Page) (Next.js) (finished)
+- Blog App MERN (Next.js) FullStack (working on ..)
 
 ## Skills
 
